@@ -1,6 +1,7 @@
 # MSP432_iBUS
 Set up serial communication between an MSP432 microcontroller and a FlySky iBUS receiver.
 
+
 Learned about:
 
 Timers - special counting registers in a microcontroller which can be used to produce PWM signals.
